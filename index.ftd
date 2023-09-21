@@ -1,1 +1,9 @@
--- ftd.text: Hello World
+-- import: rutukapate.github.io/Kumbh-Sans-Typography
+-- import: rutukapate.github.io/Kumbh-Sans-Typography/assets
+-- import: rutukapate.github.io/Kumbh-Sans-Typography/sidebar
+
+-- ftd.column:
+
+-- sidebar.hello: Hello World
+
+-- end: ftd.column
