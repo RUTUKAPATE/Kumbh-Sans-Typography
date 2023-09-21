@@ -3,27 +3,9 @@
 
 -- ftd.column:
 
--- hello: Hello World
+-- sidebar.hello: Hello World
 
 -- display-type:
 types: $Kumbh-Sans-Typography.types
 
-
 -- end: ftd.column
-
--- component hello:
-string title:
-optional ftd.responsive-type role:
-ftd.type-data types: $Kumbh-Sans-Typography.types
-
--- ftd.text: $hello.title
-role: $dtype
-
--- end: hello
-
--- ftd.type dtype:
-size.px: 40
-weight: 900
-font-family: $assets.fonts.Kumbh-Sans
-line-height.px: 65
-letter-spacing.px: 5
