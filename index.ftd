@@ -1,8 +1,13 @@
+-- import: rutukapate.github.io/Kumbh-Sans-Typography
 -- import: rutukapate.github.io/Kumbh-Sans-Typography/assets
 
 -- ftd.column:
 
 -- hello: Hello World
+
+-- display-type:
+types: $Kumbh-Sans-Typography.types
+
 
 -- end: ftd.column
 
