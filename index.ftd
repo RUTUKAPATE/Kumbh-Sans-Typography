@@ -1,13 +1,10 @@
 -- import: rutukapate.github.io/Kumbh-Sans-Typography/assets
 
--- ftd.type dtype:
-size.px: 40
-weight: 900
-font-family: $assets.fonts.Kumbh-Sans
-line-height.px: 65
-letter-spacing.px: 5
+-- ftd.column:
 
 -- hello: Hello World
+
+-- end: ftd.column
 
 -- component hello:
 string title:
@@ -17,3 +14,10 @@ optional ftd.responsive-type role:
 role: $dtype
 
 -- end: hello
+
+-- ftd.type dtype:
+size.px: 40
+weight: 900
+font-family: $assets.fonts.Kumbh-Sans
+line-height.px: 65
+letter-spacing.px: 5
