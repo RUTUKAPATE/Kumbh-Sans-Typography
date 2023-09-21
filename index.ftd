@@ -1,1 +1,11 @@
+-- import: rutukapate.github.io/Kumbh-Sans-Typography/assets
+
+-- ftd.type dtype:
+size.px: 40
+weight: 900
+font-family: $assets.fonts.Kumbh-Sans
+line-height.px: 65
+letter-spacing.px: 5
+
 -- ftd.text: Hello World
+role: $dtype
