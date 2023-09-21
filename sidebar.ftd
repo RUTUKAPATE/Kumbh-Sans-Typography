@@ -2,9 +2,8 @@
 -- import: rutukapate.github.io/Kumbh-Sans-Typography/assets
 
 -- component hello:
-string title:
+caption title:
 optional ftd.responsive-type role:
-ftd.type-data types: $Kumbh-Sans-Typography.types
 
 -- ftd.text: $hello.title
 role: $dtype
